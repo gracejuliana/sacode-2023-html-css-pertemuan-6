@@ -1,0 +1,7 @@
+/* Universal Selector CSS */
+
+* {
+    background-color: rgb(165, 42, 165);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
