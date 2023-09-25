@@ -1,0 +1,26 @@
+/* Element Selector CSS */
+
+body {
+    background-color: #FF5959 ;
+    color: #fff;
+    text-align: center;
+}
+
+
+header{
+    background-color: #0D69AC;
+    padding: 25px;
+    margin: 25px;
+}
+
+section{
+    background-color: #287F47;
+    padding: 25px;
+    margin: 25px;
+}
+
+footer{
+    background-color: #74869D;
+    padding: 25px;
+    margin: 25px;
+}
